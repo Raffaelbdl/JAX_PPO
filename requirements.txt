@@ -1,0 +1,8 @@
+envpool 
+wandb
+distrax
+einops
+dm-haiku
+numpy
+optax
+rlax
