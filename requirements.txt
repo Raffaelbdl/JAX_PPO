@@ -6,3 +6,4 @@ dm-haiku
 numpy
 optax
 rlax
+git+https://github.com/Raffaelbdl/rl-tools
